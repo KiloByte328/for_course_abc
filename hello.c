@@ -18,6 +18,7 @@ int main (int argc, char** argv)
     printf("i can fix that... \n");
     printf("ehhh\n");
     printf("dawhat?\n");
+    printf("toudatup\n");
     printf("Change da World\n");
     printf("my final messeage\n");
     printf("Goodbye'n");
