@@ -7,6 +7,7 @@ int main (int argc, char** argv)
     printf("AWKWARD\n");
     printf("Khm..'\n";
     printf("somwere in... \n");
+    printf("Novosibirsk\n");
     printf("Change da World\n");
     printf("my final messeage\n");
     printf("Goodbye'n");
