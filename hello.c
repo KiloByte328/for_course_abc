@@ -16,6 +16,7 @@ int main (int argc, char** argv)
     printf("what a good night\n");
     printf("you look lonely...\n");
     printf("i can fix that... \n");
+    printf("ehhh\n");
     printf("Change da World\n");
     printf("my final messeage\n");
     printf("Goodbye'n");
