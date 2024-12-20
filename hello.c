@@ -14,6 +14,7 @@ int main (int argc, char** argv)
     printf("Glacier\n");
     printf("xaev\n");
     printf("what a good night\n");
+    printf("tou look lonely...\n");
     printf("Change da World\n");
     printf("my final messeage\n");
     printf("Goodbye'n");
