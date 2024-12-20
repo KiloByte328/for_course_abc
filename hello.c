@@ -9,6 +9,7 @@ int main (int argc, char** argv)
     printf("somwere in... \n");
     printf("Novosibirsk\n");
     printf("И восстали машины из пепла...\n");
+    printf("Но только\n");
     printf("Change da World\n");
     printf("my final messeage\n");
     printf("Goodbye'n");
