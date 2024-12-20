@@ -24,6 +24,7 @@ int main (int argc, char** argv)
     printf("so...\n");
     printf("not so so....\n");
     printf("Erm...\n");
+    printf("But i dont think it is what task wants...\n");
     printf("Change da World\n");
     printf("my final messeage\n");
     printf("Goodbye'n");
