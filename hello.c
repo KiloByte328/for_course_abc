@@ -13,18 +13,6 @@ int main (int argc, char** argv)
     printf("I dont know\n");
     printf("Glacier\n");
     printf("xaev\n");
-    printf("what a good night\n");
-    printf("you look lonely...\n");
-    printf("i can fix that... \n");
-    printf("ehhh\n");
-    printf("dawhat?\n");
-    printf("toudatup\n");
-    printf("forget me not...\n");
-    printf("Hmmmmmm...\n");
-    printf("so...\n");
-    printf("not so so....\n");
-    printf("Erm...\n");
-    printf("But i dont think it is what task wants...\n");
     printf("Change da World\n");
     printf("my final messeage\n");
     printf("Goodbye'n");
