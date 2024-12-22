@@ -5,7 +5,7 @@ int main (int argc, char** argv)
     printf("Hello, World!\n");
     printf("Umm.. that was...\n");
     printf("AWKWARD\n");
-    printf("Khm..'\n";
+    printf("Khm..'\n");
     printf("Guess whos back?\n");
     printf("somwere in... \n");
     printf("Novosibirsk\n");
