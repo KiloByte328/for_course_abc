@@ -1,3 +1,2 @@
 CXXFLAGS = -g -Wall 
-  all:
-    hello
+  all: hello
