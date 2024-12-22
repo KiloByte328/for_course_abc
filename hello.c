@@ -6,6 +6,7 @@ int main (int argc, char** argv)
     printf("Umm.. that was...\n");
     printf("AWKWARD\n");
     printf("Khm..'\n";
+    printf("Guess whos back?\n");
     printf("somwere in... \n");
     printf("Novosibirsk\n");
     printf("И восстали машины из пепла...\n");
