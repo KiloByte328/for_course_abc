@@ -21,5 +21,6 @@ int main (int argc, char** argv)
     printf("Goodbye\n");
     printf("test\n");
     printf("testx2\n");
+    printf("testx3\n");
     return 0;
 }
