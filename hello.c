@@ -18,6 +18,7 @@ int main (int argc, char** argv)
     printf("fine i get one agent\sn");
     printf("Change da World\n");
     printf("my final messeage\n");
-    printf("Goodbye'n");
+    printf("Goodbye\n");
+    printf("test\n");
     return 0;
 }
