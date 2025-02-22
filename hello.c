@@ -20,5 +20,6 @@ int main (int argc, char** argv)
     printf("my final messeage\n");
     printf("Goodbye\n");
     printf("test\n");
+    printf("testx2\n");
     return 0;
 }
